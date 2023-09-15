@@ -26,5 +26,5 @@ dijkstra(wiki_graph, 1)
 dijkstra(wiki_graph, 2)
 }
 \references{
-wiki page link https://en.wikipedia.org/wiki/Dijkstra%27s algorithm and https://en.wikipedia.org/wiki/Graph (mathematics)
+wiki page link <https://en.wikipedia.org/wiki/Dijkstra%27s> algorithm and <https://en.wikipedia.org/wiki/Graph (mathematics)>
 }

@@ -9,3 +9,6 @@ Description: Two famous algorithms Euclidian algorithm and Dijkstra
 License: N/A
 Encoding: UTF-8
 RoxygenNote: 7.2.3
+LazyData: true
+Depends: 
+    R (>= 2.10)

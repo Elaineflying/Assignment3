@@ -22,5 +22,5 @@ euclidean(123612, 13892347912)
 euclidean(100, 1000)
 }
 \references{
-wiki page link https://en.wikipedia.org/wiki/Euclidean algorithm
+wiki page link <https://en.wikipedia.org/wiki/Euclidean> algorithm
 }

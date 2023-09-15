@@ -1,5 +1,5 @@
 #' euclidean algorithm
-#' @references wiki page link https://en.wikipedia.org/wiki/Euclidean algorithm
+#' @references wiki page link <https://en.wikipedia.org/wiki/Euclidean> algorithm
 #' @description euclidean algorithm is to caculate the greatest common divisor of two integers
 #' @param a A numeric number.
 #' @param b A numeric number.
