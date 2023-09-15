@@ -1,16 +1,18 @@
 #' dijkstra algorithm
-#' @references wiki page link <https://en.wikipedia.org/wiki/Dijkstra%27s> algorithm and <https://en.wikipedia.org/wiki/Graph (mathematics)>
+#' @references wiki page link <https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm>
 #' @description dijkstra algorithm is to find the shortest distince in a graph with a given start point
 #' @param graph A dataframe with three variables (v1, v2 and w) that contains the edges of the graph (fromv1 to v2) with the weight of the edge (w).
 #' @param init_node A numeric number.
 #' @returns A numeric vector.
 #' @examples
+#' \dontrun{
 #' wiki_graph <-
 #' data.frame(v1=c(1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,6),
 #' v2=c(2,3,6,1,3,4,1,2,4,6,2,3,5,4,6,1,3,5),
 #' w=c(7,9,14,7,10,15,9,10,11,2,15,11,6,6,9,14,2,9))
 #' dijkstra(wiki_graph, 1)
 #' dijkstra(wiki_graph, 2)
+#'}
 
 dijkstra <-
 function(graph,init_node) {

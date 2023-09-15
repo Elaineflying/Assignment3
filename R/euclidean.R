@@ -1,12 +1,14 @@
 #' euclidean algorithm
-#' @references wiki page link <https://en.wikipedia.org/wiki/Euclidean> algorithm
+#' @references wiki page link <https://en.wikipedia.org/wiki/Euclidean_algorithm>
 #' @description euclidean algorithm is to caculate the greatest common divisor of two integers
 #' @param a A numeric number.
 #' @param b A numeric number.
 #' @returns A numeric number.
 #' @examples
+#' \dontrun{
 #' euclidean(123612, 13892347912)
 #' euclidean(100, 1000)
+#'}
 
 euclidean <-
 function(a,b){
