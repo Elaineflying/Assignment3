@@ -10,7 +10,7 @@ Authors@R: c(person("Xuan", "Developer", role = c("aut", "cre"),
 Author: Ashen Developer, Xuan Developer
 Maintainer: Ashen Developer <thawe276@student.liu.se>
 Description: Two famous algorithms Euclidian algorithm and Dijkstra.
-License: FALSE
+License: GPL (>= 2)
 Encoding: UTF-8
 RoxygenNote: 7.2.3
 LazyData: true

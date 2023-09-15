@@ -14,7 +14,8 @@ The DESCRIPTION file:
 \packageDESCRIPTION{assignment3}
 \packageIndices{assignment3}
 ~~ An overview of how to use the package, including the most important ~~
-~~ functions ~~
+~~ dijkstra is to find the shortest distince in a graph with a given start point ~~
+~~ euclidean is to caculate the greatest common divisor of two integers ~~
 }
 \author{
 \packageAuthor{assignment3}
@@ -26,6 +27,5 @@ Maintainer: \packageMaintainer{assignment3}
 }
 \keyword{ package }
 \seealso{
-~~ Optional links to other man pages, e.g. ~~
-~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
+~~ Optional links to other man pages ~~
 }
