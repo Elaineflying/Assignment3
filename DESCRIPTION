@@ -8,7 +8,7 @@ Authors@R: c(person("Xuan", "Developer", role = c("aut", "cre"),
               person("Ashen", "Developer", role = "ctb",
                      email = "thawe276@student.liu.se"))
 Author: Ashen Developer, Xuan Developer
-Maintainer: Ashen Developer, Xuan Developer
+Maintainer: Ashen Developer <thawe276@student.liu.se>
 Description: Two famous algorithms Euclidian algorithm and Dijkstra
 License: N/A
 Encoding: UTF-8
