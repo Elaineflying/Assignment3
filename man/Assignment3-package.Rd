@@ -1,25 +1,25 @@
-\name{Assignment3-package}
-\alias{Assignment3-package}
-\alias{Assignment3}
+\name{assignment3-package}
+\alias{assignment3-package}
+\alias{assignment3}
 \docType{package}
 \title{
-\packageTitle{Assignment3}
+\packageTitle{assignment3}
 }
 \description{
-\packageDescription{Assignment3}
+\packageDescription{assignment3}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{Assignment3}
-\packageIndices{Assignment3}
+\packageDESCRIPTION{assignment3}
+\packageIndices{assignment3}
 ~~ An overview of how to use the package, including the most important ~~
 ~~ functions ~~
 }
 \author{
-\packageAuthor{Assignment3}
+\packageAuthor{assignment3}
 
-Maintainer: \packageMaintainer{Assignment3}
+Maintainer: \packageMaintainer{assignment3}
 }
 \references{
 ~~ Literature or other references for background information ~~
