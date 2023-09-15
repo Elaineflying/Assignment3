@@ -1,0 +1,11 @@
+Package: Assignment3
+Type: Package
+Title: THis package is for R Programming Advanced ML assignment3
+Version: 1.0
+Date: 2023-09-15
+Author: Ashen & Xuan
+Maintainer: Ashen & Xuan
+Description: Two famous algorithms Euclidian algorithm and Dijkstra
+License: N/A
+Encoding: UTF-8
+RoxygenNote: 7.2.3
