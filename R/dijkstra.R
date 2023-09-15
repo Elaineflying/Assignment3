@@ -1,5 +1,5 @@
 #' dijkstra algorithm
-#' @references wiki page link https://en.wikipedia.org/wiki/Dijkstra%27s algorithm and https://en.wikipedia.org/wiki/Graph (mathematics)
+#' @references wiki page link <https://en.wikipedia.org/wiki/Dijkstra%27s> algorithm and <https://en.wikipedia.org/wiki/Graph (mathematics)>
 #' @description dijkstra algorithm is to find the shortest distince in a graph with a given start point
 #' @param graph A dataframe with three variables (v1, v2 and w) that contains the edges of the graph (fromv1 to v2) with the weight of the edge (w).
 #' @param init_node A numeric number.
@@ -32,6 +32,8 @@ function(graph,init_node) {
         
         ### initialize distance vector with infinity except the init_node
         ### create a visited vector to keep track if the node has been searched
+        dist <- c()
+        visited <- c()
         for ( v in 1:n ) {
             dist[v] <- Inf
             visited[v] <- FALSE
