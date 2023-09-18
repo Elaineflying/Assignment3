@@ -18,10 +18,8 @@ A numeric number.
 euclidean algorithm is to caculate the greatest common divisor of two integers
 }
 \examples{
-\dontrun{
 euclidean(123612, 13892347912)
 euclidean(100, 1000)
-}
 }
 \references{
 wiki page link <https://en.wikipedia.org/wiki/Euclidean_algorithm>

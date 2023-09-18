@@ -5,10 +5,9 @@
 #' @param b A numeric number.
 #' @returns A numeric number.
 #' @examples
-#' \dontrun{
 #' euclidean(123612, 13892347912)
 #' euclidean(100, 1000)
-#'}
+#' @export
 
 euclidean <-
 function(a,b){
